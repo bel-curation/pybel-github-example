@@ -8,7 +8,6 @@ SET DOCUMENT Licenses = "WTF License"
 
 DEFINE NAMESPACE CHEBI AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=chebi.belns"
 DEFINE NAMESPACE HGNC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=hgnc-human-genes.belns"
-DEFINE NAMESPACE MESHD AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-diseases.belns"
 DEFINE NAMESPACE GO AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-biological-process.belns"
 
 DEFINE NAMESPACE dbSNP AS PATTERN "rs[0-9]+$"
