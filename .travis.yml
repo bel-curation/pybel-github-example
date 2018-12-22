@@ -4,6 +4,6 @@ language: python
 python:
 - 3.6
 install:
-- pip install git+https://github.com/cthoyt/pybel-git
+- pip install pybel-git
 script:
 - pybel-git ci
