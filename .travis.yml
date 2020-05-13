@@ -2,8 +2,8 @@ sudo: false
 cache: pip
 language: python
 python:
-- 3.6
+  - "3.8"
 install:
-- pip install pybel-git
+  - pip install pybel-git
 script:
-- pybel-git ci
+  - pybel-git ci
